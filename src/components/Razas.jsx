@@ -21,7 +21,7 @@ const Razas = ({raza,img}) => {
                     <div className="card-body">
                         <h4 className="card-tittle" ><strong>Raza:</strong></h4><br />
                         <div>
-                            <h6 className="card-text">{raza.name}</h6> 
+                            <p className="card-text">{raza.name}</p> 
                             <hr />
                             <h4><strong>Descripción:</strong></h4><br /><p>{raza.description}</p> 
                             <hr />
