@@ -21,8 +21,8 @@ const Header = ({titulo}) => {
                                     Ayuda
                                 </a>
                                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a className="dropdown-item" href="http://www.ugr.es/~pjara/D/Docen14/TR/index.htm">Acerca de</a></li>
-                                    <li><a className="dropdown-item" href="#">Preguntas frecuentes</a></li>
+                                    <li><a className="dropdown-item" href="paginaEnBlanco.html">Acerca de</a></li>
+                                    <li><a className="dropdown-item" href="paginaEnBlanco.html">Preguntas frecuentes</a></li>
                                 </ul>
                             </div>
                         </div>
