@@ -1,0 +1,27 @@
+body{
+    padding: 1em;
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(196, 145, 244);
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.imgFondo {
+    background-image: url(fondo.jpg);
+}
+
+.header {
+    border: 2px solid rgb(106, 106, 106);
+    border-radius: 3px;
+}
+
+#gato {
+    width:300px;
+    height:300px;
+    border: 2px solid gray;
+    border-radius: 3%;
+}
