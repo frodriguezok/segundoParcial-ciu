@@ -70,12 +70,11 @@ function App() {
     <Fragment>
       <div>
         <div className="card">
-          <div className='card-header '>
+          <div className='card-header'>
             <Header
                 titulo={"InfoGatuno"}
               />
           </div>
-
         </div>
           <div className="card">
             <div className="card-body">

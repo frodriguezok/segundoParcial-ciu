@@ -22,7 +22,7 @@ const Header = ({titulo}) => {
                                 </a>
                                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a className="dropdown-item" href="paginaEnBlanco.html">Acerca de</a></li>
-                                    <li><a className="dropdown-item" href="paginaEnBlanco.html">Preguntas frecuentes</a></li>
+                                    <li><a className="dropdown-item" href="preguntasFrecuentes.html">Preguntas frecuentes</a></li>
                                 </ul>
                             </div>
                         </div>
