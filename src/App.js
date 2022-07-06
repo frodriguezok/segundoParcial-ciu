@@ -78,9 +78,9 @@ function App() {
         </div>
           <div className="card">
             <div className="card-body">
-              <div class="input-group flex-nowrap">
-                <span class="input-group-text" id="addon-wrapping">Ingrese una raza: </span>
-                <input type="text" class="form-control" placeholder="¿Que raza desea buscar?" aria-label="Username" aria-describedby="addon-wrapping" onChange={detectarPalabra}/>
+              <div className="input-group flex-nowrap">
+                <span className="input-group-text" id="addon-wrapping">Ingrese una raza: </span>
+                <input type="text" className="form-control" placeholder="¿Que raza desea buscar?" aria-label="Username" aria-describedby="addon-wrapping" onChange={detectarPalabra}/>
               </div>
               <hr></hr>
               <br></br>
